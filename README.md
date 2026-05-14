@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=anoushka-prabhu30&color=80cbc4&style=flat-square&label=Profile+Views)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Anoushka%20Prabhu&fontSize=42&fontColor=e0f7fa&fontAlignY=55&desc=MS%20Bioinformatics%20%40%20Johns%20Hopkins%20University&descSize=16&descAlignY=75&descColor=80cbc4" />
 
 ### *Decoding biology, one dataset at a time.*
@@ -13,13 +15,19 @@
 
 ---
 
-## About Me
+## 👩‍🔬 About Me
 
-I'm an MS Bioinformatics student at **Johns Hopkins University**, working at the intersection of **AI, machine learning, and biomedical data science**. My work spans computational genomics, systems biology, protein structure prediction, and drug discovery.
+🎓 **Education**
+- MS Bioinformatics · Johns Hopkins University (2025–2027)
+- BS Biotechnology Engineering + Minor in Economics · Amity University (2021–2025)
 
-Previously investigated proteasome-centered gene regulatory networks in breast cancer at **ACTREC (Tata Memorial Centre)**, developed pharmaceutical biosimilars at **Ipca Laboratories**, and conducted NGS + proteomics research on **Acute Myeloid Leukemia**.
+🔭 **Currently:** Building reproducible Python & R pipelines for clinical oncology genomic datasets — automating data processing, statistical modeling, and IRB-compliant data governance across concurrent studies.
 
-**3rd place** at GreenHacks JHU Innovation Challenge — built HALO, a disaster response communication system using idle electric school buses.
+🤝 **Open to collaborate on:** AI in healthcare · Drug discovery · Clinical data science
+
+🎯 **2026 Goal:** Build an open-source bioinformatics tool
+
+⚡ **Fun fact:** I run, do pottery, and have a thing for fashion 🏃‍♀️🏺👗
 
 ---
 
@@ -101,9 +109,41 @@ Ansari, I.G., Kumari, U., Prabhu, A., et al. — *Journal of Cardiovascular Dise
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle%20Deep%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Udemy-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGS%20Data%20Analysis-1D7EB8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Omics%20Data%20Analysis-2c5364?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
 ## ✍️ Writing
 
 [![Medium](https://img.shields.io/badge/Read%20my%20articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anoushkaprabhu3)
+
+---
+
+## 🌐 Connect & Explore
+
+<p align="center">
+  <a href="https://www.kaggle.com/an0ushkaprabhu">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anoushkaprab/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://medium.com/@anoushkaprabhu3">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anoushka-prabhu-62b349273">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
