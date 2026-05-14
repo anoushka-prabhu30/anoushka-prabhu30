@@ -18,7 +18,7 @@ I'm an MS Bioinformatics student at **Johns Hopkins University**, working at the
 
 Previously investigated proteasome-centered gene regulatory networks in breast cancer at **ACTREC (Tata Memorial Centre)**, developed pharmaceutical biosimilars at **Ipca Laboratories**, and conducted NGS + proteomics research on **Acute Myeloid Leukemia**.
 
-**3rd place** at GreenHacks JHU Innovation Challenge — built HALO, a disaster response communication system using idle electric school buses.
+**3rd place** at GreenHacks JHU Innovation Challenge, built HALO, a disaster response communication system using idle electric school buses.
 
 ---
 
