@@ -97,12 +97,11 @@ Ansari, I.G., Kumari, U., Prabhu, A., et al. — *Journal of Cardiovascular Dise
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anoushka-prabhu30&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&icon_color=80cbc4&text_color=e0f7fa&count_private=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushka-prabhu30&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&text_color=e0f7fa&langs_count=8&card_width=320" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka-prabhu30&theme=nord&hide_border=true&bg_color=0d1117&color=80cbc4&line=80cbc4&point=e0f7fa&area=true&area_color=80cbc4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka-prabhu30&theme=nord&hide_border=true&bg_color=0d1117&color=80cbc4&line=80cbc4&point=e0f7fa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anoushka-prabhu30&theme=nord&hide_border=true&background=0d1117&ring=80cbc4&fire=80cbc4&currStreakLabel=80cbc4&sideLabels=e0f7fa&dates=e0f7fa&sideNums=e0f7fa&currStreakNum=80cbc4" />
 </div>
 
 ---
