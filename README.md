@@ -55,6 +55,9 @@ Protein Structure         ·    Clinical Data Science      ·    Systems Biology
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 **Bioinformatics**
 
@@ -69,11 +72,21 @@ Protein Structure         ·    Clinical Data Science      ·    Systems Biology
 ![STAR](https://img.shields.io/badge/STAR-FFD700?style=flat-square&logoColor=black)
 ![NetworkAnalyst](https://img.shields.io/badge/NetworkAnalyst-E8952A?style=flat-square&logoColor=white)
 ![Phyre2](https://img.shields.io/badge/Phyre2-203a43?style=flat-square&logoColor=white)
+![VCFtools](https://img.shields.io/badge/VCFtools-2c5364?style=flat-square&logoColor=white)
+![BEDtools](https://img.shields.io/badge/BEDtools-4a90d9?style=flat-square&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-1565C0?style=flat-square&logoColor=white)
+![SAMtools](https://img.shields.io/badge/SAMtools-E8952A?style=flat-square&logoColor=white)
+![HISAT2](https://img.shields.io/badge/HISAT2-FFD700?style=flat-square&logoColor=black)
+![Seurat](https://img.shields.io/badge/Seurat-1D7EB8?style=flat-square&logoColor=white)
+![PySAM](https://img.shields.io/badge/PySAM-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & Dev**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
