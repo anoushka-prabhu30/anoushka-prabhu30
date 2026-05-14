@@ -21,13 +21,13 @@
 - MS Bioinformatics · Johns Hopkins University (2025–2027)
 - BS Biotechnology Engineering + Minor in Economics · Amity University (2021–2025)
 
-🔭 **Currently:** Building reproducible Python & R pipelines for clinical oncology genomic datasets — automating data processing, statistical modeling, and IRB-compliant data governance across concurrent studies.
+🔭 **Currently:** Building reproducible Python & R pipelines for clinical oncology genomic datasets, automating data processing, statistical modeling, and IRB compliant data governance across concurrent studies.
 
 🤝 **Open to collaborate on:** AI in healthcare · Drug discovery · Clinical data science
 
-🎯 **2026 Goal:** Build an open-source bioinformatics tool
+🎯 **2026 Goal:** Build an open source bioinformatics tool
 
-⚡ **Fun fact:** I run, do pottery, and have a thing for fashion 🏃‍♀️🏺👗
+⚡ **Hobbies:** I run, do pottery, and love fashion
 
 ---
 
