@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushka-prabhu-62b349273)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anoushkaprabhu3)
-[![Email](https://img.shields.io/badge/Email-anoushkaprabhu3%40gmail.com-teal?style=flat-square&logo=gmail&logoColor=white)](mailto:anoushkaprabhu3@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anoushkaprabhu3@gmail.com)
+[![JHU](https://img.shields.io/badge/JHU-0066CC?style=flat-square&logo=academia&logoColor=white)](mailto:aprabhu5@jh.edu)
 
 </div>
 
@@ -18,7 +19,7 @@ I'm an MS Bioinformatics student at **Johns Hopkins University**, working at the
 
 Previously investigated proteasome-centered gene regulatory networks in breast cancer at **ACTREC (Tata Memorial Centre)**, developed pharmaceutical biosimilars at **Ipca Laboratories**, and conducted NGS + proteomics research on **Acute Myeloid Leukemia**.
 
-**3rd place** at GreenHacks JHU Innovation Challenge, built HALO, a disaster response communication system using idle electric school buses.
+**3rd place** at GreenHacks JHU Innovation Challenge — built HALO, a disaster response communication system using idle electric school buses.
 
 ---
 
@@ -96,14 +97,12 @@ Ansari, I.G., Kumari, U., Prabhu, A., et al. — *Journal of Cardiovascular Dise
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anoushka-prabhu30&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&icon_color=80cbc4&text_color=e0f7fa&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushka-prabhu30&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&text_color=e0f7fa&langs_count=8&card_width=320" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoushka-prabhu30&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&icon_color=80cbc4&text_color=e0f7fa&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushka-prabhu30&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=80cbc4&text_color=e0f7fa&langs_count=8" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka-prabhu30&theme=nord&hide_border=true&bg_color=0d1117&color=80cbc4&line=80cbc4&point=e0f7fa" />
 </div>
 
 ---
